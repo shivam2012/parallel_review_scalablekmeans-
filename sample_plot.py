@@ -39,4 +39,3 @@ ax.set_xlabel('x')
 ax.set_ylabel('y')
 
 plt.show()
-
